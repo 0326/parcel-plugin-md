@@ -1,10 +1,16 @@
 {
   "name": "parcel-plugin-md",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parcel plugin for markdown",
   "main": "src/index.js",
   "repository": "git@github.com:0326/parcel-plugin-md.git",
   "author": "0326 <winniringy@gmail.com>",
+  "keywords": [
+    "parcel",
+    "parcel-plugin",
+    "parcel-plugin-markdown",
+    "markdown-to-html"
+  ],
   "scripts": {
     "dev": "parcel demo.html",
     "lint": "eslint ./src",

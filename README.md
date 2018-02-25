@@ -4,6 +4,9 @@
 
 <p align="left">
   <a href="https://www.npmjs.com/package/parcel-plugin-md">
+    <img src="https://img.shields.io/npm/dt/parcel-plugin-md.svg" alt="npm">
+  </a>
+  <a href="https://www.npmjs.com/package/parcel-plugin-md">
     <img src="https://img.shields.io/npm/v/parcel-plugin-md.svg" alt="npm">
   </a>
   <a href="https://coveralls.io/r/0326/parcel-plugin-md">
