@@ -15,8 +15,6 @@ module.exports = class MarkdownAsset extends HTMLAsset {
   }
 
   generate () {
-    return {
-      js: `module.exports=\`${this.transHtml}\``
-    }
+    return super.generate()
   }
 }
