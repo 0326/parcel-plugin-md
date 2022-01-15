@@ -17,7 +17,7 @@
     "build": "parcel build demo.html"
   },
   "dependencies": {
-    "marked": "^0.3.16"
+    "marked": "^4.0.10"
   },
   "license": "MIT",
   "devDependencies": {
